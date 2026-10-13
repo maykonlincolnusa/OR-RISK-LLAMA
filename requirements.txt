@@ -1,0 +1,10 @@
+# Core MLX & LLM Fine-Tuning (Apple Silicon)
+mlx>=0.29.0
+mlx-lm>=0.29.0
+datasets>=3.0.0
+huggingface-hub>=0.26.0
+
+# Analytics & Command Center Dashboard
+streamlit>=1.40.0
+pandas>=2.2.0
+plotly>=5.24.0
