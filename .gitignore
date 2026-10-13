@@ -1,0 +1,23 @@
+
+.venv-dashboard/
+adapters_run2/
+
+# Python
+.venv/
+.venv-dashboard/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Large model files
+*.gguf
+
+# Local training logs
+*.log
